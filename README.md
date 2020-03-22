@@ -1,36 +1,4 @@
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
-
-# Demo
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
-
-![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
-
-# Color theme
-edit in _config.yml
-```
-color_theme:  "#0081ff"
-color_text:  "#fff"
-```
-
-# Install
-```
-git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
-```
-or
-```
-gem install jekyll-help-center-theme
-```
-https://rubygems.org/gems/jekyll-help-center-theme
-
-# How to use
-```
-bundle exec jekyll serve --livereload --watch
-```
-Server address
-```
-localhost:4000/jekyll-help-center-theme/
-```
+# Start Point for Makers Vs CoViD-19 and SARS-CoV-2
 
 # Post Example
 ```
