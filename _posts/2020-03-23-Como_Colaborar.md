@@ -16,4 +16,4 @@ Dicas de como colaborar com este projeto.
 
 Links importantes listados nas dúvidas acima:
 
-* [Arquivos dos Posts para cada grupo de Perguntas e Respostas](https://github.com/Makers-Vs-CoViD-19/StartPoint/new/master/_posts)
+* [Arquivos dos Posts para cada grupo de Perguntas e Respostas](https://github.com/Makers-Vs-CoViD-19/StartPoint/tree/master/_posts)
