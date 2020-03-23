@@ -8,19 +8,21 @@
 # Site settings
 title: "Makers Vs CoViD-19 and SARS-CoV-2 - StartPoint"
 email: 
-description: ""
+description: "Ponto de entrada para os Makers que desejam desenvolver projetos contra a CoViD-19"
 baseurl: "/StartPoint"
 url: ""
 twitter_username: ""
-github_username:  "startpoint"
+github_username:  "makers-vs-covid-19/startpoint"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
 
+excerpt_separator: "<!--more-->"
+
 # Build settings
 markdown: kramdown
 permalink: /:title/
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 
 # Plugins
