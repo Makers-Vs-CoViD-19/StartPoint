@@ -7,6 +7,11 @@ categories: Empresas
 by: 'Carlos Delfino'
 icon: 'credit-card'
 catalog:
+  - name: 'ForHacker - Fortaleza, CE'
+    desc: 'ForHacker - Fortaleza, CE'
+    image: 'forhacker.jpg'
+    whatsapp_name: (+55 85 99139-0220) - Daniel Almeida Chagas
+    whatsapp: '5585991390220' 
   - name: 'Como Cadastrar sua Empresa'
     desc: 'Entre em contato com o Whastapp (+55 85) 991257722 e passe os dados de sua empresa e como se coloca a disposição'
   - name: 'Makers Vitória da Conquista - BA'
