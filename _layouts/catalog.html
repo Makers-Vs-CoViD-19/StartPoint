@@ -42,7 +42,7 @@ layout: default
           {% if x.whatsapp %}
           <div class="" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
             <span class="list-post-description">
-              <a href="https://wa.me/{{x.whatsapp}}{% if x.whatsapp_msg %}/?text={{x.whatsapp_msg | url_encode}}{% endif %}"><span class="feather-icon icon-phone" data-aos="fade-right" data-aos-offset="0" data-aos-delay="500"></span></a>
+              <a href="https://wa.me/{{x.whatsapp}}{% if x.whatsapp_msg %}/?text={{x.whatsapp_msg | url_encode}}{% endif %}"><span class="feather-icon icon-phone" data-aos="fade-right" data-aos-offset="0" data-aos-delay="500">{{x.whatsapp_name | markdownify }}</span></a>
             </span>
           </div>
           {% endif %}
