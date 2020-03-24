@@ -11,5 +11,5 @@ questions:
    - question: 'Alex - Savassi Placas - BH, MG'
      answer: '+55 31 8802-5640, Placas Personalizadas, Camisas entre outros'
    - question: 'Daniel - Poços de Caldas, MG'
-     answer: '+55 35 9942-5596 - 
+     answer: '+55 35 9942-5596'
 ---
