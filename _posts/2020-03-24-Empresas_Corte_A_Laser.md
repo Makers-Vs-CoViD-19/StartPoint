@@ -11,5 +11,5 @@ questions:
    - question: 'Alex - Savassi Placas - BH, MG'
      answer: '+55 31 8802-5640, Placas Personalizadas, Camisas entre outros'
    - question: 'Daniel - Poços de Caldas, MG'
-     answer: '+55 35 9942-5596'
+     answer: '+55 35 9942-5596,  micro empreendedor individual, localizado na cidade de Bandeira do Sul-MG, a 15km de Poços de Caldas-MG, divisa com São Paulo, Tem uma máquina laser 1490 com 130w e uma router cnc com área de corte de 2,75x3,00m. Corta materiais que poderão ser usados nas EPI na laser desde que não seja tóxico como por exemplo PVC. Router para corte de madeira até plástico.'
 ---
