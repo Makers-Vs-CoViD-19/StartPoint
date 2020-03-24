@@ -15,14 +15,21 @@ twitter_username: ""
 github_username:  "makers-vs-covid-19/startpoint"
 color_theme:  "#0081ff"
 color_text:  "#fff"
-language:  "en"
+
+locale: pt_BR
+lang: pt_BR
+charset: utf-8
+encoding: utf-8
 
 excerpt_separator: "<!--more-->"
 
 # Build settings
 markdown: kramdown
 permalink: /:title/
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
 paginate: 5
 
 # Plugins

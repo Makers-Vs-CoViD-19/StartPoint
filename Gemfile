@@ -8,5 +8,6 @@ group :jekyll_plugins do
   gem 'support-for'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
+  gem 'jekyll-redirect-from'
 #  gem 'jekyll-livereload'
  end
