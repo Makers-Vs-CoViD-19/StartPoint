@@ -7,6 +7,11 @@ categories: Empresas
 by: 'Carlos Delfino'
 icon: 'credit-card'
 catalog:
+  - name: 'Como Cadastrar sua Empresa'
+    desc: 'Entre em contato pelo [Whastapp](http://wa.me/5585991257722) e passe os dados de sua empresa e como pode ajudar, mande Seu nome, nome da empresa, Whatsapp, e-mail, endereço e como pode ajudar, mande também uma imagem de no máximo 600x600px para representar seu anuncio.'
+    whatsapp: '5585991257722'
+    whatsapp_name: 'Carlos Delfino'
+    whatsapp_msg: 'Quero ajudar no Makers vs CoViD-19 divulgando no site'
   - name: 'A Loja 3D e GTMax 3D'
     desc: '⚠ A Loja 3D em parceria com a GTMax 3D vai vender a preço de custo os filamentos PLA, PETG, ABS e Flex usados para Impressões 3D que visem ajudar na 🛡⛑ proteção aos profissionais da 👩🏽‍⚕👨🏽‍⚕Saúde, respiradores e utilitários para pacientes ! 🚑🏥 As solicitações podem ser feitas pelo📱WhatsApp'
     email: 'contato@loja3d.com.br'
@@ -16,8 +21,6 @@ catalog:
     image: 'forhacker.jpg'
     whatsapp_name: (+55 85 99139-0220) - Daniel Almeida Chagas
     whatsapp: '5585991390220' 
-  - name: 'Como Cadastrar sua Empresa'
-    desc: 'Entre em contato com o Whastapp (+55 85) 991257722 e passe os dados de sua empresa e como se coloca a disposição'
   - name: 'Makers Vitória da Conquista - BA'
     desc: 'Makers Vitória da Conquista - BA'
     image: '3d_makers_vitoria_da_conquista_bahia.jpg'
