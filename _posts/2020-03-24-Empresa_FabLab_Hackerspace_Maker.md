@@ -34,7 +34,7 @@ catalog:
   - name: 'B 3D Bureau de Criações'
     desc: 'Empresa que trabalha com corte laser e impressão 3D em Manaus. Caso alguém necessite fabricar algum protótipo e não tenha o equipamento necessário podem dispor de algumas horas para ajudar se o intuito for ajudar no próximo!!!'
     email: 'famfngg2020@gmail.com'
-    whatsapp: '+5592984587797'
+    whatsapp: '5592984587797'
   - name: 'Antônio Alberto Cutri'
     desc: 'Limeira - SP, tem como Projeto fabricar o balão AMBU'
     whatsapp: '5519995567274'
