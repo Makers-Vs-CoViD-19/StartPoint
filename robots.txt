@@ -1,0 +1,1 @@
+Sitemap: http://makers-vs-covid-19.github.io/StartPoint/sitemap.xml
