@@ -11,4 +11,5 @@ projects:
      image: 'mit-e-vent-3.jpg'
    - name: 'OpenVentilator'
      url: 'https://popsolutions.co/openventilator'
+     image: 'open-respirator-v1.11.jpg'
 ---
