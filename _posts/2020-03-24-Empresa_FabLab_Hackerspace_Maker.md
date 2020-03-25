@@ -7,6 +7,10 @@ categories: Empresas
 by: 'Carlos Delfino'
 icon: 'credit-card'
 catalog:
+  - name: 'A Loja 3D e GTMax 3D'
+    desc: '⚠ A Loja 3D em parceria com a GTMax 3D vai vender a preço de custo os filamentos PLA, PETG, ABS e Flex usados para Impressões 3D que visem ajudar na 🛡⛑ proteção aos profissionais da 👩🏽‍⚕👨🏽‍⚕Saúde, respiradores e utilitários para pacientes ! 🚑🏥 As solicitações podem ser feitas pelo📱WhatsApp'
+    email: 'contato@loja3d.com.br'
+    whatsapp: '5561982204333'
   - name: 'ForHacker - Fortaleza, CE'
     desc: 'ForHacker - Fortaleza, CE'
     image: 'forhacker.jpg'
