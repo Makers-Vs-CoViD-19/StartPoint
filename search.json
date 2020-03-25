@@ -19,6 +19,9 @@ layout: null
       {%if post.groups %}
       "groups"      : {{ post.groups | jsonify}},
       {% endif %}
+      {%if post.projects %}
+      "projects"      : {{ post.projects | jsonify}},
+      {% endif %}
       "icon"        : "{{ post.icon }}"
 
     } {% unless forloop.last %},{% endunless %}
