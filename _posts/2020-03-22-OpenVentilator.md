@@ -4,7 +4,7 @@ title: 'Open Ventilator Project'
 date: 2020-03-22 17:46:41 -0300
 categories: OpenVentilator
 by: 'Marcos Mendez'
-icon: 'credit-card'
+icon: 'package'
 questions:
    - question: 'General Information and Project'
      answer: 'https://www.popsolutions.co/openventilator'

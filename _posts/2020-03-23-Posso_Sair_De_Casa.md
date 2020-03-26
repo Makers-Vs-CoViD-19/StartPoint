@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Posso Sair de Casa?'
-date: 2020-03-23 00:00:00 -0300
+date: 2020-03-26 00:00:00 -0300
 categories: StartPoint
 by: 'Carlos Delfino'
-icon: 'credit-card'
+icon: 'home'
 questions:
    - question: 'ONde posso sair de casa?'
      answer: 'Não importa onde você esteja evite sair de casa, somente o extremamente necessário, ou seja, comprar remédios, produtos de limpeza e alimentação.'
