@@ -7,6 +7,11 @@ categories: Empresas
 by: 'Carlos Delfino'
 icon: 'credit-card'
 catalog:
+  - name: 'Aio MakerTronics'
+    desc: 'Aio MakerTronics em Mato Grosso, Iniciamos a produção do projeto de safe shield e pretendemos doar cerca de 250 essa semana para alguns médicos que já solicitaram. Gostaríamos de estar fazendo uma campanha de arrecadação para doar o máximo de peças possíveis para os hospitais da capital Cuiabá. Trabalhamos em parceria com grupo de todo o país. Para fazer a ação em maior escala e distribuir equipamentos e peças hospitalares de forma gratuita a hospitais visando a proteção dos  profissionais de saúde que estão na frente de batalha desta guerra.'
+    whatsapp: '5565992007706'
+    url: 'http://www.aiomakertronics.com'
+    image: 'aio-makers.jpg'    
   - name: 'Coletivo AR BRASIL'
     desc: 'Tem como objetivo conectar pessoas, instituições, projetos e empresas através das  chamadas: Voluntariado, Produtores e fabricantes de equipamentos, Demandas de doações, Suprimentos para doações, Projetos tecnológicos, Iniciativas já existentes, Núcleos regionais, Núcleo nacional, Comunidade no Slack. Contamos com a ajuda de todos no combate desta pandemia 🦠 Vamos evitar a perda de ainda mais vidas pela COVID-19 e combater a disseminação deste novo coronavírus!'
     url: 'https://linktr.ee/Coletivoarbrasil'
