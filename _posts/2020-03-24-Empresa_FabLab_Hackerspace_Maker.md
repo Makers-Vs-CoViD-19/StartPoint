@@ -7,6 +7,12 @@ categories: Empresas
 by: 'Carlos Delfino'
 icon: 'credit-card'
 catalog:
+  - name: 'Coletivo AR BRASIL'
+    desc: 'Tem como objetivo conectar pessoas, instituições, projetos e empresas através das  chamadas: Voluntariado, Produtores e fabricantes de equipamentos, Demandas de doações, Suprimentos para doações, Projetos tecnológicos, Iniciativas já existentes, Núcleos regionais, Núcleo nacional, Comunidade no Slack. Contamos com a ajuda de todos no combate desta pandemia 🦠 Vamos evitar a perda de ainda mais vidas pela COVID-19 e combater a disseminação deste novo coronavírus!'
+    url: 'https://linktr.ee/Coletivoarbrasil'
+    whatsapp: '5511934211800'
+    whatsapp_name: 'Jean'
+    img: 'coletivo-ar-brasil.png'
   - name: 'Como Cadastrar sua Empresa'
     desc: 'Entre em contato pelo [Whastapp](http://wa.me/5585991257722) e passe os dados de sua empresa e como pode ajudar, mande Seu nome, nome da empresa, Whatsapp, e-mail, endereço e como pode ajudar, mande também uma imagem de no máximo 600x600px para representar seu anuncio.'
     whatsapp: '5585991257722'
