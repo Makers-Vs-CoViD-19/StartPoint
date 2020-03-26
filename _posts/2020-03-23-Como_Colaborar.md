@@ -6,14 +6,10 @@ categories: StartPoint
 by: 'Carlos Delfino'
 icon: 'credit-card'
 questions:
-  - question: 'Finep e FAPESP lançam edital de R$ 20 milhões para tecnologia contra o Covid-19'
-    answer: '<iframe width="560" height="315" src="https://www.youtube.com/embed/pBxP4VvtN2I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   - question: 'Como Colaborar com este site'
     answer: 'Para colaborar com este é muito simples, visite o link https://github.com/Makers-Vs-CoViD-19/StartPoint/new/master/_posts, veja como os arquivos e copie um deles alterando os dados para inserir as informações desejadas, cada arquivo deve representar um conjunto de perguntas e respostas. Evite textos muito longos, em caso de dúvida consulte pelo whatsapp no número (+55 85) 991257722'
   - question: 'Cadastrando sua Empresa como prestador de serviços ou voluntária'
     answer: 'Visite um dos links a seguir para obter informações de como cadastrar sua empresa, ou entre em contato com o whatsapp (+55 85) 991257722, Links: https://makers-vs-covid-19.github.io/StartPoint/Empresas_Corte_A_Laser/'
-  - question: 'RESOLUÇÃO - RDC Nº 356, DE 23 DE MARÇO DE 2020'
-    answer: 'Dispõe, de forma extraordinária e temporária, sobre os requisitos para a fabricação, importação e aquisição de dispositivos médicos identificados como prioritários para uso em serviços de saúde, em virtude da emergência de saúde pública internacional relacionada ao SARS-CoV-2. [Detalhes clicando aqui](http://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-356-de-23-de-marco-de-2020-249317437?fbclid=IwAR3tQyhVUPMqrTcX5HAW9Tq7MfYLCYCk8IwH2yqnO6RuaKEyzOCC9ImPHMI)'
 ---
 
 Dicas de como colaborar com este projeto.
