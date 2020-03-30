@@ -6,6 +6,13 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'Ventilador Pulmonar de Exceção para COVID-19'
+     desc: 'Projeto Ventilador Pulmonar de Exceção para COVID-19, em desenvolvimento pelo Programa de Engenharia Biomédica da COPPE/UFRJ e inúmeros colaboradores, o qual tem o objetivo de suprir a demanda urgente prevista para estes dispositivos devido a COVID-19.
+
+Aqui você vai encontrar a [descrição do projeto](https://sites.google.com/peb.ufrj.br/ventiladorcoppe/projeto) e suas especificações, a [equipe de trabalho](https://sites.google.com/peb.ufrj.br/ventiladorcoppe/equipe), as [demandas](https://sites.google.com/peb.ufrj.br/ventiladorcoppe/colabore) atuais do projeto, além de outras informações importantes como [outras iniciativas](https://sites.google.com/peb.ufrj.br/ventiladorcoppe/outras-iniciativas) que estão sendo realizadas e [editais](https://sites.google.com/peb.ufrj.br/ventiladorcoppe/editais) já publicados.
+
+Para mais informações acerca do projeto, trabalhos voluntários, colaborações e parcerias, entre em [contato conosco](https://sites.google.com/peb.ufrj.br/ventiladorcoppe/contato).'
+     url: 'https://sites.google.com/peb.ufrj.br/ventiladorcoppe/in%C3%ADcio'
    - mame: 'Viseira - FaceShield'
      desc: 'ATENÇÃO: IMPRIMAM UMA UNIDADE E TESTEM A EFICÁCIA E IMPRESSÃO ANTES DE INICIAR A PRODUÇÃO. INFELIZMENTE NENHUMA IMPRESSORA 3D É IGUAL A OUTRA OU PODE NÃO ATENDER À NECESSIDADE DA SUA REGIÃO OU CENTRO DE SAÚDE.
 
