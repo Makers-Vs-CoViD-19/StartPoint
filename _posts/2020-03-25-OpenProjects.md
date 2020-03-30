@@ -6,6 +6,9 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'CoViD-19 - Ventilator List'
+     desc: 'A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source'
+     url: 'https://github.com/PubInv/covid19-vent-list'
    - name: 'Ventilador Pulmonar de Exceção para COVID-19'
      desc: 'Projeto Ventilador Pulmonar de Exceção para COVID-19, em desenvolvimento pelo Programa de Engenharia Biomédica da COPPE/UFRJ e inúmeros colaboradores, o qual tem o objetivo de suprir a demanda urgente prevista para estes dispositivos devido a COVID-19.
 
