@@ -6,6 +6,21 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'Ventilator Medtronic'
+     desc: 'A Medtronic abriu o design de um de seus ventilators, e acabaram de liberar o código fonte
+
+Até agora eles postaram 3 "pacotes" de arquivos, contendo specs de produto e software, desenhos mecânicos e elétricos, BOM, PCBs, e códigos fonte, me pareceu uma oportunidade única de estudar por dentro e completamente um projeto real para quem se interessar, já baixei tudo aqui e estou começando a explorar
+
+Aqui um video do Dave falando sobre (ele postou esse hoje, mas o source code ainda nao tinha sido liberado: 
+
+ * https://www.youtube.com/watch?v=TltM74rNasM&t=9s
+
+ * https://www.medtronic.com/content/dam/medtronic-com/global/Corporate/covid19/downloads/ventilator-files/medtronic-pb560-ventilator-system-file-set-1.zip
+
+ * https://www.medtronic.com/content/dam/medtronic-com/global/Corporate/covid19/downloads/ventilator-files/medtronic-pb560-ventilator-system-file-set-2.zip
+
+ * https://www.medtronic.com/content/dam/medtronic-com/global/Corporate/covid19/downloads/ventilator-files/medtronic-pb560-ventilator-system-file-set-3.zip'
+     url: 'https://www.medtronic.com/us-en/e/open-files/thank-you.html'
    - name: 'Coronavírus: Morador de Guarapari produz máscaras para profissionais da saúde'
      url: 'https://www.folhaonline.es/coronavirus-morador-de-guarapari-produz-mascaras-para-profissionais-da-saude/'
      desc: 'Benedito Correa entregou 30 máscaras à Secretaria Municipal de Saúde de Anchieta. O Capitão da reserva da Polícia Militar conta que decidiu iniciar a produção artesanal porque sua mulher é enfermeira e, diante da pandemia do coronavírus (Covid-19), acabou sofrendo com a escassez de Equipamentos de Proteção Individual (EPIs).
