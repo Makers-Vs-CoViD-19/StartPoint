@@ -6,6 +6,11 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'Ventilador Pulmonar - Respirador - Saulo Guths'
+     desc: 'Projeto de um Ventilador Pulmonar (respirador) de baixo custo e com componentes facilmente encontrados no mercado nacional.
+     
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/WSYEITLVi94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+     url: 'https://www.youtube.com/watch?v=WSYEITLVi94'
    - name: 'CoViD-19 - Ventilator List'
      desc: 'A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source'
      url: 'https://github.com/PubInv/covid19-vent-list'
