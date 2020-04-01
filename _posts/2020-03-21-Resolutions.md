@@ -1,11 +1,11 @@
 ---
 layout: resolutions
-title: 'Grupos Makers em Geral'
+title: 'Resoluções do Governo'
 date: 2020-03-22 17:46:41 -0300
-categories: GruposMakers
+categories: Resoluções 
 by: 'Carlos Delfino'
 icon: 'octagon'
-resolution:
+resolutions:
    - title: 'RDC Nº 356, DE 23 DE MARÇO DE 2020'
      url: 'http://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-356-de-23-de-marco-de-2020-249317437'
      intro: 'Dispõe, de forma extraordinária e temporária, sobre os requisitos para a fabricação, importação e aquisição de dispositivos médicos identificados como prioritários para uso em serviços de saúde, em virtude da emergência de saúde pública internacional relacionada ao SARS-CoV-2.
