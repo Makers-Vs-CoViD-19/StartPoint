@@ -6,6 +6,22 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'Coronavírus: Morador de Guarapari produz máscaras para profissionais da saúde'
+     url: 'https://www.folhaonline.es/coronavirus-morador-de-guarapari-produz-mascaras-para-profissionais-da-saude/'
+     desc: 'Benedito Correa entregou 30 máscaras à Secretaria Municipal de Saúde de Anchieta. O Capitão da reserva da Polícia Militar conta que decidiu iniciar a produção artesanal porque sua mulher é enfermeira e, diante da pandemia do coronavírus (Covid-19), acabou sofrendo com a escassez de Equipamentos de Proteção Individual (EPIs).
+
+“Eu e minha esposa acompanhamos juntos as notícias sobre a chegada do coronavírus ao Brasil e a expectativa era ruim. Com a demanda crescente por equipamentos de proteção, sabíamos que logo o produto estaria em falta”, explica Benedito. Diante das circunstâncias, ele passou a estudar as possibilidades de produzir as máscaras artesanalmente. 
+
+“Fiz vários ensaios de máscaras, até que cheguei a essa versão. As máscaras feitas de acetato pesam 75 gramas, o que facilita o uso, e são completamente higienizáveis”, conta. De acordo com ele, a demanda aumentou quando a esposa utilizou a máscara produzida por ele. “As colegas de trabalho dela se interessaram pela máscara e a secretária da saúde também. Então, solicitou 30 unidades”. A remessa foi entregue ontem (30), em Anchieta. 
+
+Segundo Benedito, a perspectiva é que os pedidos aumentem. “Hoje, a oferta de máscaras no mercado é baixa e, durante esse período, as entregas demoram cerca de 45 dias. O pico da doença acontecerá antes desse prazo”. Ele conta ainda que pretende entregar uma remessa de máscaras à Unidade de Pronto Atendimento de Guarapari (Upa), em breve.
+
+Interessados nas máscaras artesanais podem entrar em contato com Benedito por meio do número (27) 98819-0237.
+
+Texto: Nicolly Credi-Dio no site: https://www.folhaonline.es/coronavirus-morador-de-guarapari-produz-mascaras-para-profissionais-da-saude/'
+     image: 'FaceShield_BeneditoCorrea.jpg'
+     whatsapp: '5527988190237'
+     whatsapp_name: 'Benedito Correa'
    - name: 'Ventilador Pulmonar - Respirador - Saulo Guths'
      desc: 'Projeto de um Ventilador Pulmonar (respirador) de baixo custo e com componentes facilmente encontrados no mercado nacional.
      
