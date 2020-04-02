@@ -6,6 +6,10 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'Inspire'
+     desc: 'Pesquisadores da USP criam ventilador pulmonar para emergências feito em 2 horas e 15 vezes mais barato.'
+     url: 'https://g1.globo.com/sp/sao-paulo/noticia/2020/03/31/coronavirus-pesquisadores-da-usp-criam-ventilador-pulmonar-para-emergencias-feito-em-2-horas-e-15-vezes-mais-barato.ghtml'
+     image: 'inspire-768x430.jpg'
    - name: 'Ventilator Medtronic'
      desc: 'A Medtronic abriu o design de um de seus ventilators, e acabaram de liberar o código fonte
 
