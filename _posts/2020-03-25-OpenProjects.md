@@ -6,6 +6,14 @@ categories: OpenProjects
 by: 'Carlos Delfino'
 icon: 'arrow-up'
 projects:
+   - name: 'SOS 3D CoViD-19'
+     url: 'https://sos3dcovid19.com.br/'
+     desc: 'Proteger os profissionais de saúde que trabalham no combate ao Coronavírus, por meio da fabricação e distribuição voluntária de protetores faciais. Nossos faceshields são feitos em impressoras 3D a baixo custo, de forma colaborativa e com responsabilidade socioambiental. Nos empenhamos em mobilizar uma rede crescente de produção, que seja capaz de fornecer o maior número possível de protetores, fazendo-os chegar de forma ágil, racional e adequada aos hospitais e unidades de saúde.
+
+Todo o dinheiro e suprimentos arrecadados aqui serão usados exclusivamente para a doação de produtos hospitalares para a rede pública e privada. Por isso, pedimos a sua contribuição para a compra dos materiais necessários para a fabricação.
+
+Sua ajuda faz diferença. Salve você também uma vida.'
+     image: 'sos3dcovid19.png'
    - name: 'Inspire'
      desc: 'Pesquisadores da USP criam ventilador pulmonar para emergências feito em 2 horas e 15 vezes mais barato.'
      url: 'https://g1.globo.com/sp/sao-paulo/noticia/2020/03/31/coronavirus-pesquisadores-da-usp-criam-ventilador-pulmonar-para-emergencias-feito-em-2-horas-e-15-vezes-mais-barato.ghtml'
